@@ -10,7 +10,7 @@ velocity expression, and density of states used in transport
 calculations.
 
 The code outline:
-Transport_model/
+Transport_model
 |
 |__Constant_relaxation_time
   |_one-band_model
