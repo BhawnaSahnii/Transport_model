@@ -9,13 +9,5 @@ to demonstrate consistency between the assumed band structure,
 velocity expression, and density of states used in transport
 calculations.
 
-The code outline:
-Transport_model
-|
-|__Constant_relaxation_time
-  |_one-band_model
-  |_two-band_model
-|__Scattering_mechanism_model
-  |_one-band_model
-  |_two-band_model
+
   
