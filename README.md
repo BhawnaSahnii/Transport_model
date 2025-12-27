@@ -2,7 +2,7 @@
 
 The transport model assumes a single isotropic parabolic band:
 
-E(k) = ħ²k² / (2m*)
+E(k) = ħ²k² / (2m*E)
 
 This dispersion is explicitly plotted in `bandstructure.py`
 to demonstrate consistency between the assumed band structure,
